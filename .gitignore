@@ -1,1 +1,12 @@
 passwrd.txt
+
+# Environment variables (copy .env.example → .env and fill in your values)
+.env
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# Node.js dependencies
+node_modules/
